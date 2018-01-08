@@ -17,4 +17,4 @@ not working in linux because will be prventing
 by kernel
 
 in windows
-![alt text](https://raw.githubusercontent.com/thelooserman/Windows-Memory-Feeder/blob/master/Screenshot_10.png)
+https://github.com/thelooserman/Windows-Memory-Feeder/blob/master/Screenshot_10.png
